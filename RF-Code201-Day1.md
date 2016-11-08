@@ -1,6 +1,6 @@
 Day 1 - Mon 11/7 2016
 
-# This is the first day
+# RF Code 201 - Day 1 Journal
 
 Heres what we did
 - Overview stuff like grading & what it will take to get into code 301
