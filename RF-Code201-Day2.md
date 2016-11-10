@@ -1,6 +1,6 @@
 # RF Code 201 - Day 2 Journal
 
-Day 1 - Tue 11/8 2016
+Day 2 - Tue 11/8 2016
 
 Heres what we did
 - Git Branching
@@ -14,7 +14,7 @@ a branch is good for adding a feature (without worrying about breaking what you 
 
 You could have x people working on different things at the same time and not conflict with one another.
 
-modify 
+modify
 add
 commit
 
